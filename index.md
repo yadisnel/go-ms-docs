@@ -13,21 +13,21 @@
 
 ### Docs
 
-1. Concepts
-  1. [Features](http://github.com)
-  1. [`go-ms` tour](http://github.com)
-  1. [Architecture](http://github.com)
-1. User guides
-  1. [Components](http://github.com)
-  1. [Tutorials](http://github.com)
-1. Benchmarks
-  1. [Comparisons](http://github.com)
-1. Development
-  1. [Get help](http://github.com) 
-  1. [Help `go-ms`](http://github.com)
-1. Agile development
-  1. [Starter kits](http://github.com)
-1. Evolution
-    1. [Releases notes](http://github.com) 
+* Concepts
+  * [Features](http://github.com)
+  * [`go-ms` tour](http://github.com)
+  * [Architecture](http://github.com)
+* User guides
+  * [Components](http://github.com)
+  * [Tutorials](http://github.com)
+* Benchmarks
+  * [Comparisons](http://github.com)
+* Development
+  * [Get help](http://github.com) 
+  * [Help `go-ms`](http://github.com)
+* Agile development
+  * [Starter kits](http://github.com)
+* Evolution
+  *[Releases notes](http://github.com) 
 
 
