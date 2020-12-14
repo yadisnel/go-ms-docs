@@ -28,6 +28,6 @@
 * Agile development
   * [Starter kits](http://github.com)
 * Evolution
-  *[Releases notes](http://github.com) 
+  * [Releases notes](http://github.com) 
 
 
