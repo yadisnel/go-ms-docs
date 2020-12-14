@@ -20,13 +20,15 @@
 * User guides
   * [Components](http://github.com)
   * [Tutorials](http://github.com)
-* Benchmarks
-  * [Comparisons](http://github.com)
+  * [Basic starter kits](http://github.com)
+  * [Advanced starter kits](http://github.com)
+* Comparisons
+  * [Inspiration](http://github.com)
+  * [Benchmarks](http://github.com)
+  * [Alternatives](http://github.com)
 * Development
   * [Get help](http://github.com) 
-  * [Help `go-ms`](http://github.com)
-* Agile development
-  * [Starter kits](http://github.com)
+  * [Contributing](http://github.com)
 * Evolution
   * [Releases notes](http://github.com) 
 
