@@ -15,10 +15,10 @@
 
 * Concepts
   * [Features](http://github.com)
-  * [`go-ms` tour](http://github.com)
+  * [Framework tour](http://github.com)
   * [Architecture](http://github.com)
 * User guides
-  * [Components](http://github.com)
+  * [Examples](http://github.com)
   * [Tutorials](http://github.com)
   * [Basic starter kits](http://github.com)
   * [Advanced starter kits](http://github.com)
